@@ -1,6 +1,6 @@
 # mathhub
 
-![logo](logo.png)
+![logo](./logo.png)
 our logo is created using dalle2
 
 
