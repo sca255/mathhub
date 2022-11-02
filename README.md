@@ -1,5 +1,9 @@
 # mathhub
 
+!logo.png
+our logo is created using dalle2
+
+
 this repo contains unlimited math ebooks, worksheets ,etc
 i will add more in future
 this is to practice math
